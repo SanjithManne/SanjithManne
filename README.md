@@ -12,9 +12,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
       </p>
   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjithManne&show_icons=true&theme=vue&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjithManne&show_icons=true&theme=radical&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjithManne&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjithManne&layout=compact&show_icons=true&theme=radical&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
   
   </body>
   
