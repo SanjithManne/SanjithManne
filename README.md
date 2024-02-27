@@ -15,6 +15,7 @@
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjithManne&show_icons=true&theme=radical&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjithManne&layout=compact&show_icons=true&theme=radical&hide_border=true&count_private=true&include_private&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
-  
+
+  ![BSanjith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjithManne&custom_title=Sanjith%20Manne's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   </body>
   
